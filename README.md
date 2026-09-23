@@ -1,4 +1,4 @@
-(https://github.com/patilrishikesh1822/PowerBi-Project/blob/9ae88575f0ed155e2dd38b4dc822d90bbb9e3dac/DashBoard%20Image.png)
+
 Play Store Data Analysis - Power BI Dashboard
 
 📌 Project Overview
