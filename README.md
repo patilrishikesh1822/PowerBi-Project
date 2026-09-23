@@ -1,5 +1,5 @@
-
 Play Store Data Analysis - Power BI Dashboard
+![Dashboard Preview]
 
 📌 Project Overview
 
