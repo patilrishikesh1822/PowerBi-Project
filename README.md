@@ -1,5 +1,5 @@
 Play Store Data Analysis - Power BI Dashboard
-![Dashboard Preview]
+![Dashboard Preview](https://github.com/patilrishikesh1822/PowerBi-Project/blob/main/DashBoard%20Image.png?raw=true)
 
 📌 Project Overview
 
